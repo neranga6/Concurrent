@@ -1,0 +1,11 @@
+Please change to your path.
+
+
+ 	# Get a list of files in the PWD that end in .java or .class
+
+    # File[] files = (new File("C:\\Users\\Neranga65\\Devlop\\workspace\\Lesson5Concurrent\\src\\main\\java\\lesson5")).listFiles(new FilenameFilter() {
+  
+  
+Program Argument
+
+# -n 4       
